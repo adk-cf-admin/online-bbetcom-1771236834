@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://online-bbet.com/
+Sitemap: https://online-bbet.com/sitemap.xml

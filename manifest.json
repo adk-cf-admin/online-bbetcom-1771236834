@@ -1,0 +1,19 @@
+{
+  "name": "Bbet",
+  "short_name": "Bbet",
+  "theme_color": "",
+  "background_color": "#1C609F",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1771234132-bbet-logo.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

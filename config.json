@@ -1,0 +1,200 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#1C609F",
+            "lang-select-color": "#222829",
+            "bg-light": "#084C8B",
+            "welcome-bonus-bg": "#FEFEFE",
+            "top-games-hover-fg": "#084C8B",
+            "main-bg": "#E1E6EB",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#FF5C3E",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#B32121",
+            "yellow": "#FF5C3E",
+            "yellow-button": "#B32121",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#FEFEFE",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "providers-back": "#084C8B",
+            "faq-label": "#FEFEFE",
+            "bg-footer": "#084C8B",
+            "copyright": "#e7e7d5",
+            "starColor": "#FF5C3E",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3064"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3066",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Bbet Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3067",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Bbet"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Bbet",
+                    "title": " Bbet: Sports and Racing Bookmaker, Bets from $1, Payouts up to $5000",
+                    "description": "Bet on sports and racing, watch live action with Bbet TV, and enjoy smooth mobile apps with fast payouts. Start from just $1, get clear limits, and access personalised in-account offers.",
+                    "canonical": "online-bbet.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3068",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "online-bbet.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3069"
+                },
+                "hero": {
+                    "title": "Bbet — Sports & Racing Betting with Live Streams",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3070",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -3,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3071",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Sharp odds across major betting markets.",
+                        "Fast payouts via popular withdrawal options.",
+                        "Minimum bet from $1, hassle-free.",
+                        "Live racing streams with Bbet TV.",
+                        "Exclusive bonus bets for active players.",
+                        "Price bump boosts profits up to $1000.",
+                        "Smooth iOS and Android betting apps."
+                    ],
+                    "advantagesAfterText": "We keep betting simple and fast: upcoming events, markets and bet slip are always within easy reach. We make it easy to start, easy to follow the action, and easy to enjoy your winnings. We reward loyalty and celebrate smart, consistent play.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Bbet App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3072",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Bbet App",
+                    "mobileGooglePlayImageTitle": "Bbet App",
+                    "mobileIosImageTitle": "Bbet App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Bbet",
+                        "description1": "What sets us apart is having betting and live racing viewing together in one smooth experience. We focus on speed, clarity and value for every punter.\n",
+                        "items": [
+                            "Winnings payouts up to $5000.",
+                            "Price bump — profit up to $1000.",
+                            "Bets from just $1."
+                        ],
+                        "description2": "We’re a bookmaker built around a confident, user-first betting experience, with a strong focus on racing and headline sports. It’s easy to find the next jumps, the biggest matches and the markets that matter, then build your bet slip and place your wager in seconds. We support multiple racing codes and popular sports so you always have options to match your mood and strategy. ",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3073",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "If you like to watch as well as wager, our Bbet TV lets you follow racing live and stay right in the moment. We create the feel of a real game day, from major sporting weekends to packed racing schedules. Across the season, we run themed promos and special campaigns that add extra value to your play. For regular punters, we grow a rewards approach where activity turns into meaningful advantages. We respect discipline and smart timing, so consistent, thoughtful play is recognised and celebrated. Inside your account, you’ll find personalised offers and mechanics designed to enhance your betting sessions. We keep navigation clean and simple, so your time goes into the action, not into searching. Our apps and mobile experience are built for quick moves on the go and comfort at home. We support familiar payment options so deposits and withdrawals feel like a natural part of the journey. Responsible play matters to us — set limits, take breaks, and keep control of your wagering. We’re here to give you confidence at every step, from sign-up to enjoying your winnings. Events and markets stay fresh so you always have an up-to-date line. We love big days and make them easy for you to enjoy. This is a space where betting is about excitement, comfort and a fair, smooth rhythm. And when you need help, we’re ready with clear guidance and steady service.\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Bbet: your comfort — rules, security, support",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nEntry Rules & Responsible Play — What You Need to Know\n<\/h3>\n\n<p>\nWe welcome punters who value comfort and play by the rules. To access betting and account features, you’ll need to register and verify your details to protect fairness and security. We ask you to provide accurate information and use payment methods that belong to you. We support respectful behaviour across all communication channels. We don’t allow rule-bypassing, bonus abuse or any form of unfair play. Age requirements matter — only adults can take part. We encourage you to set limits early and stick to a sensible budget. We stand for entertainment-first play, not chasing losses. We support breaks and self-controls if you feel your balance slipping. We reserve the right to restrict accounts that break rules to protect the platform and other users. We keep conditions transparent so your journey from bet to payout stays clear. Responsible play is part of a quality experience, and we help you keep it that way.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAccess & usage conditions:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAge: adults only.\n\n<\/li>\n            <li>• \nAccount: real details and identity verification.\n\n<\/li>\n            <li>• \nPayments: use only your own cards\/accounts.\n\n<\/li>\n            <li>• \nAccess: follow login and device security rules.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProhibitions & restrictions:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nMultiple accounts: one account per person.\n\n<\/li>\n            <li>• \nFraud: any deception is prohibited.\n\n<\/li>\n            <li>• \nAbuse: no artificial schemes to exploit promos.\n\n<\/li>\n            <li>• \nUnderage access: strictly prohibited.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponsible play:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLimits: deposits, stakes, session time.\n\n<\/li>\n            <li>• \nBreaks: time-outs when needed.\n\n<\/li>\n            <li>• \nSelf-exclusion: if control is slipping.\n\n<\/li>\n            <li>• \nSupport: contact us to adjust protections.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicensing & Security — Protecting Your Data and Your Bets\n<\/h3>\n\n<p>\nWe operate as a regulated bookmaker and follow requirements designed to support fair play and user protection. Licensing obligations help us maintain standards of transparency, proper identification, and responsible wagering. We apply identity checks to protect accounts from unauthorised access and financial misuse. We also follow internal controls focused on compliance and risk management. For us, security is part of the service — not an optional extra. That’s why we build multi-layer protection into daily operations.\n\n<\/p>\n<br>\n\n\n<p>\nWe secure your data using modern encryption technologies whenever information moves between your device and our systems. This reduces interception risk and improves resilience against interference attempts. We use protected connection protocols and keep security components regularly updated. Access to sensitive information is restricted and granted only on a need-to-know basis. We monitor for suspicious activity to detect unusual logins and transactions early. This approach helps prevent fraud before it becomes a problem.\n\n<\/p>\n<br>\n<p>\nOur privacy policy follows principles of minimisation and purpose-based use. We collect only what’s needed to run your account, process payments, and meet regulatory requirements. We don’t use personal information for unrelated purposes without a lawful basis. We provide clear communication controls so you can manage notifications and marketing preferences. We retain data only for required timeframes and then securely remove or anonymise it. We aim to keep privacy predictable, transparent, and easy to understand.\n\n<\/p>\n<br>\n<p>\nWe place strong focus on financial security and transaction handling. Payment activity is processed through protected channels and standardised workflows. We validate transaction integrity and cross-check key parameters to reduce error risk. For withdrawals, we follow matching and verification rules: funds are paid to verified details and aligned with prior funding methods where applicable. This helps protect you from third-party withdrawal attempts. The result is a stable and controlled payments environment.\n\n<\/p>\n<br>\n<p>\nSecurity is supported not only by technology but also by process and training. Our team works under strict access controls and confidentiality standards. We review security rules regularly and refine processes as new risks emerge. We want you to wager with confidence — placing bets, watching the action, and receiving payouts in a protected space. From passwords to withdrawals, every step is designed to be logical and secure. Our goal is trust earned through consistent daily practice.\n\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n Customer Support — Fast Answers, Clear Solutions\n<\/h3>\n\n<p>\nWe’ve built support to help you exactly when you need it — before you bet, during the action, and when you’re withdrawing winnings. We communicate in plain language and provide practical steps without unnecessary back-and-forth. Speed matters, so we prioritise requests and connect you with the right specialist quickly. We assist with sign-up, verification, deposits, withdrawals, limits, and event-related questions. We respect your time and aim to resolve issues on the first contact. We offer multi-language support to keep communication comfortable. We also provide self-service guidance for quick fixes. If a case needs checks, we share timelines and keep you updated. We log interactions so you don’t have to repeat yourself. We welcome feedback and continuously improve our support flows. Our priority is a confident, secure experience at every step.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nContact channels:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLive chat: fast help for most questions.\n\n<\/li>\n            <li>• \nEmail: best for document-based requests.\n\n<\/li>\n            <li>• \nPhone: for urgent or complex cases.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponse times & service quality:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nChat: usually within minutes.\n\n<\/li>\n            <li>• \nEmail: typically within 1 business day.\n\n<\/li>\n            <li>• \nPhone: quick connection based on line availability.\n\n<\/li>\n            <li>• \nQuality: clear instructions and end-to-end assistance.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLanguage availability:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nPrimary: English.\n\n<\/li>\n            <li>• \nAdditional: available on request via email.\n\n<\/li>\n            <li>• \nClarity: straightforward answers, no jargon.\n\n<\/li>\n\n        <\/ul><br>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Entertainment and Gaming at Bbet",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nLoyalty Program — Tiers, Rewards and Bigger Advantages\n<\/h3>\n<p>\nOur loyalty program is built for punters who play regularly and want consistent benefits. We reward activity so you get more value from each bet, especially across racing and major sports markets. Your journey starts automatically after sign-up, with clear progress tracking and tier perks. We award points based on activity and consistency, recognising steady play. As you move up, benefits become more meaningful — from personalised offers to stronger odds-related mechanics. A key feature is our price bump, designed to lift profit potential on selected markets. We keep it simple: you can see exactly how many points you need for the next tier and what you’ll unlock. Seasonal missions help you boost progress and collect rewards more often. Rewards are available inside your account and activate in a few clicks. We make sure benefits remain practical and targets achievable. The program suits both new and experienced punters who like a structured approach. We want loyalty to feel real — through advantages you can actually use.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHow to join:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAccount registration: enrolment is automatic.\n\n<\/li>\n            <li>• \nIdentity verification: unlocks full benefits access.\n\n<\/li>\n            <li>• \nActivity: points earned through bets and promos.\n\n<\/li>\n            <li>• \nRule compliance: one account per member.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTiers & how to reach them:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nStarter: 0–499 points — basic personalised offers.\n\n<\/li>\n            <li>• \nBronze: 500–1,999 points — bonus bets up to $25 weekly.\n\n<\/li>\n            <li>• \nSilver: 2,000–4,999 points — bonus bets up to $50 + stronger boosts.\n\n<\/li>\n            <li>• \nGold: 5,000–9,999 points — bonus bets up to $100 + priority support.\n\n<\/li>\n\t    <li>• \nPlatinum: 10,000+ points — tailored deals + expanded promo limits.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProgram rewards\n<\/h4>\n\n <ul>\n            <li>• \nPrice bump: profit boost up to $1000 on selected markets.\n<\/li>\n            <li>• \nWeekly bonus bets: up to $25 \/ $50 \/ $100 by tier.\n\n<\/li>\n            <li>• \nPersonal missions: extra bonus bets up to $30.\n\n<\/li>\n            <li>• \nSeason event gifts: bonus bets up to $40 on top fixtures.\n\n<\/li>\n\t    <li>• \nPriority support (Gold+): faster handling for complex cases.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n Bonuses & Specials — More Value in Every Bet\n<\/h3>\n\n<p>\nWe make sure your betting brings not only excitement, but extra value for staying active. We run specials around big sporting weekends, major race days, and packed seasonal calendars. Inside your account you’ll find personalised offers tailored to the way you play. Seasonal campaigns give you bonus bets for completing simple goals. For racing fans, we enhance the experience with live streams so you can watch and wager in one flow. Throughout the year, themed events align with headline tournaments and racing highlights. Bonus bets help you explore markets and stay more engaged. Challenges and missions reward consistency and smart routines. For punters who enjoy multi-bet strategies, we create specials for accumulators and combined slips. We also run boosted days where key offers become stronger for a limited time. Everything is accessible in-account and activates smoothly. We keep conditions clear so rewards feel genuinely useful. Offers refresh regularly so there’s always something current. We balance value and entertainment so each session can deliver more. We aim to make every game day feel bigger and better. And we promote activity in a responsible, controlled way — with you in charge.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonuses, wins and specials\n<\/h4>\n\n <ul>\n            <li>• \nActivity bonus bets: up to $250 in bonus bets to power selected markets.\n\n<\/li>\n            <li>• \nSeasonal campaigns: bonus bets up to $100 for weekly missions.\n\n<\/li>\n            <li>• \nBig event days: bonus bets up to $50 on top matches and race days.\n\n<\/li>\n            <li>• \nMulti\/accumulator specials: bonus bets up to $40 for combined slips.\n\n<\/li>\n\t    <li>• \nPrice bump profit boost: up to $1000 extra profit on selected markets.\n\n<\/li>\n\t    <li>• \n“Streak” challenge: bonus bets up to $30 for consistent betting runs.\n\n<\/li>\n\t    <li>• \nNew-feature promos: bonus bets up to $25 for trying new markets.\n\n<\/li>\n\t    <li>• \nTournament weeks: bonus bets up to $60 during major competitions.\n\n<\/li>\n\t    <li>• \nHoliday gifts: bonus bets up to $20 on themed dates.\n\n<\/li>\n\t    <li>• \nRacing streams + peak days: extra offers when demand is highest.\n\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n Our Markets & Bets — Sports and Racing in One Flow\n<\/h3>\n\n<p>\nWe offer betting across the most in-demand sports and racing, giving you the freedom to pick events that match your mood and strategy. It’s easy to track the next races and the biggest matches, then build your slip quickly. We support a range of bet formats, from classic match results to lines and totals, so you can stay flexible. For racing, we keep events and markets clearly organised to help you find the right race fast. For sports, we cover core markets across popular leagues and tournaments, keeping the line relevant. We focus on making pricing and market selection straightforward. Racing fans can watch the action through Bbet TV for a more immersive experience. We support both local and selected international competitions within our covered sports. Events refresh regularly so markets stay current. The interface is designed to reduce searching time and maximise play time. We also offer varied racing bet types to keep your slips dynamic. And everything runs under one account with a single balance and clean logic.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nKey betting sections \n<\/h4>\n\n <ul>\n            <li>• \nThoroughbred racing: win\/place, exotics and combinations.\n\n<\/li>\n            <li>• \nGreyhounds: fast racing with familiar markets.\n\n<\/li>\n            <li>• \nHarness racing: regular meets with clear pricing.\n\n<\/li>\n            <li>• \nFootball (soccer): results, handicaps, totals.\n\n<\/li>\n\t    <li>• \nAussie Rules: core season markets.\n\n<\/li>\n\t    <li>• \nRugby (league & union): results, handicaps, totals.\n\n<\/li>\n\t    <li>• \nCricket: match and tournament markets.\n\n<\/li>\n\t    <li>• \nBasketball: results and totals across leagues.\n\n<\/li>\n\t    <li>• \nTennis: winners, game handicaps, totals.\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBetting Limits — Minimums and Maximums Across Key Markets\n<\/h3>\n\n<p> \nWe keep limits clear so you can plan your bankroll and wager with confidence. Our minimum bet starts from $1, which is ideal for steady play and testing markets. Maximum figures vary by event type to keep the experience comfortable and well-controlled. Below is a handy table across the main categories, so you can quickly understand what’s available.\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #FF5C3E;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Sports events<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"> $5000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Metropolitan thoroughbred racing<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"> $5000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Non-metropolitan thoroughbred racing<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"> $3000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Greyhounds \/ Harness<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>International racing<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"> $1000<\/td>\n    <\/tr>\n   \n  \n  <\/tbody>\n<\/table>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWithdrawals & Payout Speed — How We Pay Your Winnings\n<\/h3>\n\n<p>\nWe keep withdrawals clear and convenient so you can receive your winnings and keep enjoying the action. We support familiar payment options and a transparent payout flow. Withdrawal requests are typically processed quickly once standard security checks are completed. We recommend completing identity verification early — it helps future transactions run even smoother. We follow verified-details principles, paying out to confirmed information to protect you from unauthorised requests. Time to receive funds depends on your chosen method and your bank’s processing, and we aim for predictability. You can track your request status inside your account and receive updates as it moves through processing. We maintain sensible limits to keep transactions stable and secure. If you need help with a specific request, our support team can assist promptly. The result is a protected journey from winning to receiving your funds. We treat payouts as a core part of a quality experience. And we keep control in your hands with responsible safeguards.\n\n<\/p>\n<br>\n\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal methods:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nBank transfer (EFT): reliable for larger amounts.\n\n<\/li>\n            <li>• \nCard withdrawal: convenient if you funded by card.\n\n<\/li>\n            <li>• \nLinked to funding method: paid to verified details.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPayout speed & processing times:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nRequest processing: typically 1–3 business days.\n\n<\/li>\n            <li>• \nFunds received: depends on bank and method.\n\n<\/li>\n            <li>• \nTracking: visible in-account with updates.\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal limits:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSports events: payouts up to $5000.\n\n<\/li>\n            <li>• \nMetropolitan racing: payouts up to $5000.\n\n<\/li>\n            <li>• \nNon-metropolitan racing: payouts up to $3000.\n\n<\/li>\n            <li>• \nGreyhounds\/harness\/international racing: payouts up to $1000.\n\n\n<\/li>\n\n        <\/ul><br>\n\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Can I use one balance for sports and racing?",
+                            "answer": "Yes — one account, one balance, and you can switch between sections anytime.\n\n\n"
+                        },
+                        {
+                            "title": "How do I set responsible play limits?",
+                            "answer": "In responsible play settings, you can set deposit, stake and session-time limits.\n\n\n"
+                        },
+                        {
+                            "title": "How can I track my withdrawal status?",
+                            "answer": "You’ll see it in your account transaction history, with updates as it processes.\n\n\n"
+                        },
+                        {
+                            "title": "What’s the fastest way to contact support?",
+                            "answer": "Live chat is quickest, while email or phone suits detailed or urgent cases.\n\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
